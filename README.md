@@ -1,5 +1,4 @@
-# Title
-Clock in Python
+# Clock in Python
 
 ## Required Libraries
 tkinter https://docs.python.org/3/library/tkinter.html
