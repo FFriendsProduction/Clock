@@ -1,5 +1,7 @@
 # Clock in Python
 
+![Screenshot](clock.png)
+
 ## Required Libraries
 tkinter https://docs.python.org/3/library/tkinter.html
 
